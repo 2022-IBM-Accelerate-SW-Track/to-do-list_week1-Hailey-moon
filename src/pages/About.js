@@ -12,14 +12,17 @@ export default class About extends Component {
               className="profile_image"
               src={ Hailey_Moon_Headshot }
               alt="Profile Pic"
-              ></img>
+            ></img>
           </div>
         </div>
       <div className="split right">
         <div className="centered">
           <div className="name_title">Hailey Moon</div>
           <div className="brief_description">
-            Hello world
+            <p>IBM Accelerate Participant <br/> 
+            UI/UX Designer <br/> 
+            Avid Rock Climber <br/>
+            What's Next...</p>
           </div>
         </div>
       </div>
